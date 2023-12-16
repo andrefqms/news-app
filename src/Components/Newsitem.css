@@ -1,0 +1,13 @@
+img{
+    height: 200px;
+    width:360px
+}
+.card-title{
+    min-height: 96px;
+    max-height: 96px;
+     
+}
+.card-footer{
+    align-items:flex-start;
+    border: none;
+}
